@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkUUID" value="2dd7abc7-4df1-453c-bd69-180021bc49ee" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="light" project-jdk-type="Python SDK" />
 </project>
